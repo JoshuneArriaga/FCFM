@@ -11,3 +11,5 @@
 [Ejercicios_Python_1853668](https://github.com/JoshuneArriaga/FCFM/blob/main/Ej_Python_1853668.ipynb)
 
 [Ejercicios Limpieza de datos](https://github.com/JoshuneArriaga/FCFM/blob/main/Ej_Limpieza_Equipo8.ipynb)
+
+[Avance1 PIA](https://github.com/JoshuneArriaga/FCFM/blob/main/Avance1_PIA_Equipo8.ipynb)
