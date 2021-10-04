@@ -18,3 +18,4 @@
 
 - [Presentación técnicas de minería de datos](https://github.com/AndreaSGomez/AndreaGomezAct/blob/main/Presentacion_Patrones%20secuenciales_Equipo08.pdf)
 - [Codigo Patrones Secuenciales](https://github.com/AndreaSGomez/AndreaGomezAct/blob/main/Ejemplo_PatronesSecuenciales_Equipo8.ipynb)
+- [Práctica Visualización](https://nbviewer.jupyter.org/github/JoshuneArriaga/FCFM/blob/main/Visualizacion_Equipo8%20%281%29.ipynb)
