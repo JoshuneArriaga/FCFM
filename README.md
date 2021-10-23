@@ -22,3 +22,4 @@
 - [Avance Pia 2](https://nbviewer.jupyter.org/github/JoshuneArriaga/FCFM/blob/main/AvancePIA_II_Grupo001_Equipo8.ipynb)
 - [Ejercicios tecnicas de minería](https://nbviewer.org/github/JoshuneArriaga/FCFM/blob/main/Ejercicios_tecnicas_de_miner%C3%ADa_Equipo8.ipynb)
 - [PIA Notebook](https://nbviewer.org/github/JoshuneArriaga/FCFM/blob/main/PIA_Equipo8.ipynb)
+- [Poster](https://github.com/JoshuneArriaga/FCFM/blob/main/poster_equipo8.pdf)
